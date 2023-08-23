@@ -1,0 +1,80 @@
+
+.encabezado {
+  background-color: yellow;
+  height: 200px;
+  background-image: url(../img/ENCABEZADO.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.caja-1 {
+width: 50%;
+text-align: center;
+display: inline-block;
+vertical-align: top;
+}
+.caja-2 {
+  width: 30%;
+  text-align: left;
+  margin-top: 120px;
+  display: inline-block;
+  vertical-align: top;
+}
+.footer {
+  background-color: goldenrod;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.encabezado h1 {
+  margin: 0px;
+  font-size: 60px;
+  color: black;
+  margin-left: 150px;
+  display: inline;
+  font-family: monospace;
+  }
+.encabezado p {
+  margin: 0px;
+  margin-left: 150px;
+  font-size: 30px;
+  color: black;
+  display: inline;
+  font-family: monospace;
+}
+.caja-1 img {
+border-radius: 10%;
+border: 2px solid black;
+display: block;
+margin: auto;
+}
+.caja-2 p {
+  margin: 0px;
+  margin-left: 1px;
+  font-size: 25px;
+  color: black;
+  font-family: monospace;
+  text-shadow: 0px 0px 5px white;
+  
+}
+body {
+  background-image: url(../img/fondo.jpg);
+}
+.footer p {
+  font-size: 15px;
+  color: black;
+  font-family: monospace;
+  text-shadow: 0px 0px 5px white;
+  text-align: center;
+}
+.footer p {
+  font-size: 15px;
+  color: black;
+  font-family: monospace;
+  text-shadow: 0px 0px 5px white;
+  text-align: center;
+}
+
+
